@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Berlin Sans FB";
+   src: url("fonts/Berlin Sans FB Bold.eot") format("embedded-opentype"), url("fonts/Berlin Sans FB Bold.TTF") format("truetype"), url("fonts/Berlin Sans FB Bold.woff") format("woff"), url("fonts/Berlin Sans FB Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Berlin Sans FB";
+   src: url("fonts/Berlin Sans FB.eot") format("embedded-opentype"), url("fonts/Berlin Sans FB.TTF") format("truetype"), url("fonts/Berlin Sans FB.woff") format("woff"), url("fonts/Berlin Sans FB.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
